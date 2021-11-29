@@ -7,4 +7,3 @@ fontforge
 ttf-jetbrains-mono
 ttf-bitstream-vera
 ttf-inconsolata
-# fontpatcher
